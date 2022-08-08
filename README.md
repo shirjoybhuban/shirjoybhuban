@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Shirjoy Bhuban</h1>
-<h3>Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 6 years of related experience.</h3>
+<h3>Hi 👋, I'm Shirjoy Bhuban</h3>
+<h6>Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 6 years of related experience.</h6>
 
 - 💬 Ask me about **React && Laravel**
 
